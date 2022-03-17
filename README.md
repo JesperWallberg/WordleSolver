@@ -25,6 +25,6 @@ If a letter is green, every word not containing a letter in this position is rem
 For my dictionaries, I used these: 
 
 * [@dwyl / english-words](https://github.com/dwyl/english-words)
-* [@cfreshman / wordle-allowed-guesses](https://gist.github.com/cfreshman/cdcdf777450c5b5301e439061d29694c)
+
 
 
